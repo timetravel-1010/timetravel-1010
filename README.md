@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bagrisham.com%2Fwp-content%2Fuploads%2F2018%2F11%2Frain.gif&f=1&nofb=1&ipt=065de4735a6407d8c59575e0394f8f904f9431fb3bef070a9a62f9bf16e700d1&ipo=images" align="center" style="width: 50%" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bagrisham.com%2Fwp-content%2Fuploads%2F2018%2F11%2Frain.gif&f=1&nofb=1&ipt=065de4735a6407d8c59575e0394f8f904f9431fb3bef070a9a62f9bf16e700d1&ipo=images" align="center" style="width: 30%" />
 </div>  
   
 
