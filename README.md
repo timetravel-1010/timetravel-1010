@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Indexer](https://github.com/timetravel-1010/indexer)  
   
 
-- 🌱 I’m currently learning VueJS and Go  
+- 🌱 I’m currently learning JavaScript and ReactJS  
   
 
 - ⚡ Fun fact: I use GNU/Linux btw.  
