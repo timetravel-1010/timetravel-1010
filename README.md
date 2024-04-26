@@ -8,10 +8,10 @@
 ### <div align="center">I'm Daniel, a software developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [Simply Book](https://github.com/timetravel-1010/simply-book)  
+- 🔭 I’m currently working on [T3 Gallery](https://github.com/timetravel-1010/t3-gallery)  
   
 
-- 🌱 I’m currently learning TypeScript and ReactJS  
+- 🌱 I’m currently learning TypeScript,ReactJS and NextJS.
   
 
 - ⚡ Fun fact: I use GNU/Linux and Vim btw.  
